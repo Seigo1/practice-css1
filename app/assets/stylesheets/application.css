@@ -21,6 +21,6 @@
   box-sizing: border-box;
   color: #6c6b6b;
 }
-.img {
- background-image: image-url('airport.jpg');
+.image1 {
+ background-image: image-url("airport.jpg");
 }
